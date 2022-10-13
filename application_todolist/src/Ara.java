@@ -1,5 +1,8 @@
 public class Ara {
 
+  //hello there Agung was here
+  //Mwehehehehe
+
     public static String[]model = new String[10];
     
     public static java.util.Scanner scanner = new java.util.Scanner(System.in);
@@ -138,14 +141,6 @@ public class Ara {
     public static void viewremoveTodoList(){
         
     }
-
-    // private static void viewAddTodoList() {
-    //     throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    // }
-
-    // private static void viewRemoveTodoList() {
-    //     throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    // }
        
 public static void testviewShowTodoList() {
     addTodoList("Satu");
@@ -164,9 +159,7 @@ public static void testviewShowTodoList() {
       addTodoList(todo);
     }
   }
-  
-  private static <var> void addTodoList(var todo) {
-  }
+
   public static void testviewAddTodoList() {
     addTodoList("Satu");
     addTodoList("Dua");
@@ -196,4 +189,12 @@ public static void testviewShowTodoList() {
     viewRemoveTodoList();
     showTodoList();
   } 
+
+    // private static void viewAddTodoList() {
+    //     throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    // }
+
+    // private static void viewRemoveTodoList() {
+    //     throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    // }
 }
